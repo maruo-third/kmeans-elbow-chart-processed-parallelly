@@ -1,0 +1,4 @@
+params:
+  n_pca: 15
+  max_clusters: 30
+  km_random_seed: 0
